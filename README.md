@@ -1,4 +1,4 @@
 PyIMAPSort
 ==========
 
-Python Script for sorting IMAP Mailboxes on remote servers
+Python script for sorting IMAP mailboxes on remote servers.
